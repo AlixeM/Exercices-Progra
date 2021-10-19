@@ -1,0 +1,4 @@
+﻿  Exercice5-SécuritéSociale.c
+C:\Users\Administrateur\OneDrive - JUNIA Grande école d'ingénieurs\Programmation\Exercice Algo\Exercice5-SecuritéSociale\Exercice5-SécuritéSociale.c(25,34): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Administrateur\OneDrive - JUNIA Grande école d'ingénieurs\Programmation\Exercice Algo\Exercice5-SecuritéSociale\Exercice5-SécuritéSociale.c(26,35): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Exercice5-SecuritéSociale.vcxproj -> C:\Users\Administrateur\OneDrive - JUNIA Grande école d'ingénieurs\Programmation\Exercice Algo\Debug\Exercice5-SecuritéSociale.exe
